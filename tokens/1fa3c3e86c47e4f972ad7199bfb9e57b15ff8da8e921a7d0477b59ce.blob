@@ -3,7 +3,7 @@
     "name": "BlobCoin",
     "symbol": "Blob",
     "website": "https://blob-coin.com/",
-    "description": "A Coin by the Thready Community, by the Thready Community",
+    "description": "A Coin for the Thready Community, by the Thready Community",
     "totalSupply": 10000000001,
     "amounts": [100000, 1000000, 10000000, 100000000, 1000000000]
 }
